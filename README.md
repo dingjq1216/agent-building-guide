@@ -2,9 +2,18 @@
 
 > 从大模型选型到生产部署 —— 掌握 AI Agent 从 0 到 1 的完整开发流程
 
+> **本书已升级为 17 章详解版！** 访问 [详解版站点](https://dingjq1216.github.io/agent-guide-detailed/) 获取完整内容。
+
 ## 项目简介
 
-这是一份**系统性的技术指南**，以交互式 HTML 文档的形式，详细讲解如何从零开始构建生产级智能体（AI Agent）。涵盖 12 个核心章节，从底层大模型选型到上层部署运维的完整技术链路。
+这是**精简版**（12 章单页），完整的 **17 章详解版** 已发布至 [agent-guide-detailed](https://github.com/dingjq1216/agent-guide-detailed)。
+
+详解版新增 5 大章节：RAG 技术、智能体评估、角色扮演与人格化、真实产品案例（Manus/OpenManus/DeepSeek）、行业应用与发展趋势。规划模块扩展了 RAP/LLM-A*/PDDL/ASP/SwiftSage 等方法。
+
+## 在线阅读
+
+- **详解版（17 章）**：[https://dingjq1216.github.io/agent-guide-detailed/](https://dingjq1216.github.io/agent-guide-detailed/)
+- **精简版（12 章，本仓库）**：[https://dingjq1216.github.io/agent-building-guide/](https://dingjq1216.github.io/agent-building-guide/)
 
 ## 核心特性
 
